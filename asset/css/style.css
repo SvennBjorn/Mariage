@@ -1,4 +1,22 @@
 #titre{
     background-color: crimson;
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    border-radius: 20px;
+}
 
+body{
+    background-color: mistyrose;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
 }

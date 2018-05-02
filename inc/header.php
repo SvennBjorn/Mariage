@@ -16,7 +16,7 @@
     <nav>
         <ul>
             <li><a href="index.php">Home</a></li>
-            <li><a href="registration.ini">Connexion</a></li>
+            <li><a href="./conf/registration.ini">Connexion</a></li>
         </ul>
     </nav>
 </header>
